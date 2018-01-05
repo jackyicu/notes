@@ -1,0 +1,9 @@
+# methods for strings
+
+s = 'Hello World'
+
+for n in len(s):
+  print(n, s[n])
+
+print(s[0])
+
