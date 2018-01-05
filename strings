@@ -7,3 +7,12 @@ for n in len(s):
 
 print(s[0])
 
+if s.startswith('H'):
+  print('Yes, it starts with H')
+  
+else:
+  print('No, it starts with something else')
+  
+s = ' ' + s + ' '
+print(s)
+
