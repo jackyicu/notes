@@ -1,6 +1,8 @@
-# Python_basics
+# Notes about learning Everything
 
-These are some code excercises when I studied python.
+This repo is a record of what I have learned everyday 
 
-1. Fetch stock information by stock number
-2. Fetch stock portfolio information
+## Categories
+
+1. Python
+2. English
